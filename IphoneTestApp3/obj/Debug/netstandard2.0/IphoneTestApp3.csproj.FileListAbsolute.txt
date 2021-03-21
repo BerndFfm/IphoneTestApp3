@@ -1,0 +1,14 @@
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\bin\Debug\netstandard2.0\IphoneTestApp3.deps.json
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\bin\Debug\netstandard2.0\IphoneTestApp3.dll
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\bin\Debug\netstandard2.0\ref\IphoneTestApp3.dll
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\bin\Debug\netstandard2.0\IphoneTestApp3.pdb
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.AssemblyInfoInputs.cache
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.AssemblyInfo.cs
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.csproj.CoreCompileInputs.cache
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.dll
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\ref\IphoneTestApp3.dll
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.pdb
+D:\Net\Android\IphoneTestApp3\IphoneTestApp3\obj\Debug\netstandard2.0\IphoneTestApp3.csprojAssemblyReference.cache
