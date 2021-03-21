@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Zc3MRfAjDdvqsUmtmDYwwvQKUizpppjBnICgg6XYmNcy9A75uRO/axTzAIVEXcZcL/HcVSHSK9Aose4FB1C6rA==",
+  "dgSpecHash": "vFr/KKRG3eDvOA6x/E9GyLNs3REJvqFxLdhWJrZCyFuAVUXK0X6PGp6nyIF/RzD0D5YuSu79Wh9y5T6KvgmUUA==",
   "success": true,
   "projectFilePath": "D:\\Net\\Android\\IphoneTestApp3\\IphoneTestApp3\\IphoneTestApp3.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter\\4.1.0\\microsoft.appcenter.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.analytics\\4.1.0\\microsoft.appcenter.analytics.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.crashes\\4.1.0\\microsoft.appcenter.crashes.4.1.0.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

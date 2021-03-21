@@ -5,6 +5,10 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 namespace IphoneTestApp3.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
@@ -22,6 +26,9 @@ namespace IphoneTestApp3.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            AppCenter.Start("3b43da23-26e2-4dc9-8e10-3f36b1af3a3f",
+                   typeof(Analytics), typeof(Crashes));
+
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 

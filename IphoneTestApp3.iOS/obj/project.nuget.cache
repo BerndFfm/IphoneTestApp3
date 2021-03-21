@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UDZMbf8QtRz7jZmBWgtZTdZuJcyDDmCJHlRdhScteYqDPvweddBS/1driM9rKDTD0Tqor6GMIqnmknLwVM+hQg==",
+  "dgSpecHash": "RHJTb+0eVimhdQ8UQyRhdmfkoAkQuV1Nt0viP8DOxDh5mCPa6KjqGpr2dP8BN3Q5Pp+bfkM8YAwP+4L2vGifxA==",
   "success": true,
   "projectFilePath": "D:\\Net\\Android\\IphoneTestApp3\\IphoneTestApp3.iOS\\IphoneTestApp3.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter\\4.1.0\\microsoft.appcenter.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.analytics\\4.1.0\\microsoft.appcenter.analytics.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.crashes\\4.1.0\\microsoft.appcenter.crashes.4.1.0.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mrkI9XbTVG8CL1lb/k8H9EAWheLvypUnlCCeAQJmFbXlXd2wd2Z2rgneMa+Lv2CgSMN05vUMXr2Vi54RyAQoUA==",
+  "dgSpecHash": "oYXS1zifaBGerC/1MHKPTbMMgM0mG/0XqDtt9ig6SzXZitsYILrw1ST8mrrfyX7MS1aXVqwDkc9PC+uX/nJivQ==",
   "success": true,
   "projectFilePath": "D:\\Net\\Android\\IphoneTestApp3\\IphoneTestApp3.Android\\IphoneTestApp3.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter\\4.1.0\\microsoft.appcenter.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.analytics\\4.1.0\\microsoft.appcenter.analytics.4.1.0.nupkg.sha512",
+    "C:\\Users\\bq\\.nuget\\packages\\microsoft.appcenter.crashes\\4.1.0\\microsoft.appcenter.crashes.4.1.0.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Users\\bq\\.nuget\\packages\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
